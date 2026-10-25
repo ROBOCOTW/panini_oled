@@ -1,4 +1,6 @@
 # PANINI OLED System Monitor
+<img width="2048" height="1152" alt="panini system info" src="https://github.com/user-attachments/assets/0cfe2aaa-cff7-4be6-abe5-256c93bf38e0" />
+
 
 Display system information on the OLED included with the ROBOCO PANINI case for the NVIDIA Jetson Orin Nano and Orin Nano Super Developer Kits.
 
